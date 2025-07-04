@@ -11,12 +11,10 @@ Membangun dua jenis model pembelajaran:
    Untuk memprediksi koordinat 3 dimensi gerakan silat secara berurutan dari video pertandingan (menggunakan pendekatan *Time Series* dan **LSTM**).
    
 2. **Model Klasifikasi**  
-   Untuk mengklasifikasikan hasil prediksi koordinat ke dalam 23 kategori gerakan silat seperti:
+   Untuk mengklasifikasikan hasil prediksi koordinat ke dalam 3 kategori gerakan silat:
    - **Langkah**
    - **Tendangan**
    - **Kuda-kuda**
-   - ...dan lainnya.
-
 ---
 
 ## 🔧 Teknologi & Tools
